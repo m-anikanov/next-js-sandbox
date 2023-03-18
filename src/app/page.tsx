@@ -11,6 +11,7 @@ export default function Home() {
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
+          <h1>Hello Immigram</h1>
         </p>
         <div>
           <a
